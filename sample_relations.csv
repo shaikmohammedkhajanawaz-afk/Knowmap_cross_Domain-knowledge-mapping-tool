@@ -1,0 +1,33 @@
+Entity1,Relation,Entity2,Category
+Apple,founded_by,Steve Jobs,Company_Founder
+Apple,located_in,Cupertino,Company_Location
+Steve Jobs,created,iPhone,Product
+iPhone,manufactured_by,Apple,Product_Manufacturer
+Microsoft,founded_by,Bill Gates,Company_Founder
+Microsoft,located_in,Redmond,Company_Location
+Bill Gates,created,Windows,Product
+Windows,used_by,Personal_Computers,Product_User
+Google,founded_by,Larry Page,Company_Founder
+Google,acquired,YouTube,Acquisition
+YouTube,owned_by,Google,Ownership
+Amazon,founded_by,Jeff Bezos,Company_Founder
+Amazon,located_in,Seattle,Company_Location
+Jeff Bezos,founded,Amazon,Founder_Action
+Tim Cook,CEO_of,Apple,Leadership
+Satya Nadella,CEO_of,Microsoft,Leadership
+Sundar Pichai,CEO_of,Google,Leadership
+Andy Jassy,CEO_of,Amazon,Leadership
+MacBook,created_by,Apple,Product_Creator
+MacBook,runs,macOS,Product_OS
+Office,created_by,Microsoft,Product_Creator
+Android,created_by,Google,Operating_System
+Chrome,developed_by,Google,Product_Developer
+Alexa,created_by,Amazon,Virtual_Assistant
+Prime,provided_by,Amazon,Service_Provider
+Apple,competitor_with,Microsoft,Business_Relation
+Google,competitor_with,Facebook,Business_Relation
+Amazon,competitor_with,Walmart,Business_Relation
+Silicon Valley,located_in,California,Region_Location
+Cupertino,located_in,California,City_Location
+Redmond,located_in,Washington,City_Location
+Seattle,located_in,Washington,City_Location

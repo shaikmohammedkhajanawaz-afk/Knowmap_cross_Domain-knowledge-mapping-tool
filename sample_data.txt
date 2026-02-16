@@ -1,0 +1,57 @@
+KNOWLEDGE GRAPH SAMPLE DATASET
+
+=== Technology Companies ===
+
+Apple Inc. was founded by Steve Jobs in 1976. The company is located in Cupertino, California.
+Steve Jobs worked for Apple and created the iPhone. The iPhone is manufactured by Apple.
+
+Microsoft was founded by Bill Gates and Paul Allen in 1975. Microsoft is located in Redmond, Washington.
+Bill Gates created Windows operating system. Windows is used by millions of computers worldwide.
+
+Google was founded by Larry Page and Sergey Brin in 1998. Google is located in Mountain View, California.
+Google acquired YouTube in 2006. YouTube is owned by Google and hosts video content.
+
+Amazon was founded by Jeff Bezos in 1994. Amazon is located in Seattle, Washington.
+Jeff Bezos is the founder of Amazon. Amazon provides cloud services through AWS.
+
+=== Technology Leaders ===
+
+Tim Cook is the CEO of Apple. Tim Cook works for Apple and manages the company.
+Satya Nadella is the CEO of Microsoft. Satya Nadella works for Microsoft.
+Sundar Pichai is the CEO of Google. Sundar Pichai works for Google.
+Andy Jassy is the CEO of Amazon. Andy Jassy works for Amazon.
+
+=== Products and Services ===
+
+iPhone is manufactured by Apple. iPhone is used by consumers worldwide.
+MacBook is a laptop created by Apple. MacBook runs macOS operating system.
+
+Windows is an operating system created by Microsoft. Windows runs on personal computers.
+Office Suite is a productivity software created by Microsoft. Office Suite includes Word, Excel, and PowerPoint.
+
+Android is an operating system created by Google. Android runs on mobile devices.
+Chrome is a web browser developed by Google. Chrome is used by millions of internet users.
+
+Alexa is a virtual assistant created by Amazon. Alexa is used in Echo devices.
+Prime is a membership service provided by Amazon. Prime members get free shipping.
+
+=== Partnerships and Relationships ===
+
+Apple and IBM have a business partnership. They work together on enterprise solutions.
+Microsoft and Apple are competitors. Both companies make operating systems and software.
+Google and Facebook compete in digital advertising. Both companies are internet giants.
+Amazon and Walmart compete in retail and e-commerce. Both companies serve consumers online.
+
+=== Historical Events ===
+
+In 2001, Apple released the first iPod. The iPod revolutionized portable music.
+In 2007, Apple introduced the first iPhone. The iPhone changed mobile technology forever.
+In 1995, Windows 95 was released by Microsoft. Windows 95 became very popular.
+In 2008, Google released the Chrome browser. Chrome became the most used web browser.
+
+=== Locations ===
+
+Silicon Valley is located in California. Many tech companies are headquartered in Silicon Valley.
+Redmond is a city in Washington state. Microsoft is headquartered in Redmond.
+Cupertino is a city in California. Apple is headquartered in Cupertino.
+Seattle is a city in Washington state. Amazon is headquartered in Seattle.

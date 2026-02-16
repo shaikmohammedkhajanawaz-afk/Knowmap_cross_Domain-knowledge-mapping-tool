@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "id": 1,
+      "title": "Technology Companies Overview",
+      "content": "Apple Inc. is a multinational technology company founded by Steve Jobs in 1976 in Cupertino, California. Microsoft Corporation was established by Bill Gates and Paul Allen in 1975 and is headquartered in Redmond, Washington. Google was founded by Larry Page and Sergey Brin in 1998 in Mountain View, California."
+    },
+    {
+      "id": 2,
+      "title": "Company Leadership",
+      "content": "Tim Cook is the Chief Executive Officer of Apple. He manages the company and oversees all operations. Satya Nadella serves as the CEO of Microsoft and leads the company's strategic direction. Sundar Pichai is the CEO of Google and manages the organization. Andy Jassy is the Chief Executive Officer of Amazon."
+    },
+    {
+      "id": 3,
+      "title": "Key Products",
+      "content": "Apple manufactures the iPhone, which is one of the most popular smartphones in the world. Microsoft produces the Windows operating system which powers millions of computers. Google developed Android operating system and also created Chrome web browser. Amazon created Alexa virtual assistant and Prime membership service."
+    },
+    {
+      "id": 4,
+      "title": "Acquisitions and Partnerships",
+      "content": "Google acquired YouTube in 2006 for 1.65 billion dollars. Microsoft and Apple have a complex relationship as both competitors and partners. Google and Facebook are major competitors in the digital advertising space. Amazon and Walmart compete heavily in e-commerce and retail."
+    },
+    {
+      "id": 5,
+      "title": "Geographic Presence",
+      "content": "Silicon Valley located in California is home to many technology companies. Cupertino California hosts Apple headquarters. Microsoft is headquartered in Redmond Washington. Amazon has its headquarters in Seattle Washington. These locations are major tech hubs."
+    }
+  ]
+}
